@@ -8,3 +8,9 @@ print(f"Moyenne : {moyenne:.1f}")
 nombre_notes = len(notes)
 
 print(f"Nombre de notes : {nombre_notes}")
+
+notes_triees = sorted(notes)
+indice_milieu = len(notes_triees) // 2
+mediane = notes_triees[indice_milieu]
+
+print(f"Médiane : {mediane}")
