@@ -1,3 +1,3 @@
 # Projet notes
 
-Petit programme Python utilisé pour apprendre Git.
+Outil pédagogique pour apprendre Python et Git avec des statistiques simples.
