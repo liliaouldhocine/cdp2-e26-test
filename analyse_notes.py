@@ -5,3 +5,6 @@ moyenne = sum(notes) / len(notes)
 print(f"Moyenne : {moyenne:.1f}")
 
 # Un commentaire 
+nombre_notes = len(notes)
+
+print(f"Nombre de notes : {nombre_notes}")
